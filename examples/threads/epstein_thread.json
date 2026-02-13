@@ -1,0 +1,14 @@
+[
+  {"from": "Pseudo_Prophet", "to": null, "type": "original"},
+  {"from": "TruthSeeker88", "to": "Pseudo_Prophet", "type": "reply"},
+  {"from": "AnonPatriot", "to": "Pseudo_Prophet", "type": "reply"},
+  {"from": "QAnonDropz", "to": "TruthSeeker88", "type": "reply"},
+  {"from": "RedPillMom", "to": "Pseudo_Prophet", "type": "reply"},
+  {"from": "Justice4Kids", "to": "RedPillMom", "type": "reply"},
+  {"from": "SkepticJoe", "to": "Pseudo_Prophet", "type": "reply"},
+  {"from": "ConspiracyCarl", "to": "SkepticJoe", "type": "reply"},
+  {"from": "WakeUpSheeple", "to": "Pseudo_Prophet", "type": "reply"},
+  {"from": "AnonPatriot", "to": "WakeUpSheeple", "type": "reply"},
+  {"from": "DeepStateExposed", "to": "Pseudo_Prophet", "type": "reply"},
+  {"from": "TruthSeeker88", "to": "DeepStateExposed", "type": "reply"}
+]

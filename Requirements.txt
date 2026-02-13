@@ -1,0 +1,4 @@
+### requirements
+networkx==3.3
+sympy==1.13.2
+numpy==1.26.4

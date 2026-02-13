@@ -1,0 +1,11 @@
+[
+  {"from": "SoveyX", "to": null, "type": "original"},
+  {"from": "DigitalDetoxer", "to": "SoveyX", "type": "reply"},
+  {"from": "FeedPrisoner", "to": "SoveyX", "type": "reply"},
+  {"from": "EchoBreaker", "to": "DigitalDetoxer", "type": "reply"},
+  {"from": "AlgorithmSlave", "to": "SoveyX", "type": "reply"},
+  {"from": "SoveyX", "to": "FeedPrisoner", "type": "reply"},
+  {"from": "MatrixEscapee", "to": "SoveyX", "type": "reply"},
+  {"from": "EchoBreaker", "to": "MatrixEscapee", "type": "reply"},
+  {"from": "DigitalDetoxer", "to": "EchoBreaker", "type": "reply"}
+]

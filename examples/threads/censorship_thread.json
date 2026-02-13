@@ -1,0 +1,12 @@
+[
+  {"from": "hippyygoat", "to": null, "type": "original"},
+  {"from": "FreeSpeechNow", "to": "hippyygoat", "type": "reply"},
+  {"from": "ShadowBanVictim", "to": "hippyygoat", "type": "reply"},
+  {"from": "PalestineVoice", "to": "hippyygoat", "type": "reply"},
+  {"from": "ZionistBotHunter", "to": "FreeSpeechNow", "type": "reply"},
+  {"from": "AlgoTruth", "to": "hippyygoat", "type": "reply"},
+  {"from": "ShadowBanVictim", "to": "AlgoTruth", "type": "reply"},
+  {"from": "CensoredVoice23", "to": "hippyygoat", "type": "reply"},
+  {"from": "PlatformResister", "to": "CensoredVoice23", "type": "reply"},
+  {"from": "hippyygoat", "to": "ShadowBanVictim", "type": "reply"}
+]
