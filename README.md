@@ -87,6 +87,29 @@ text|   p   | Viol Prob | Max In-Deg | In Gini | Primacy Risk | Orphans | # SCCs
 |  0.01 |     0.000 |        3.2 |   0.312 |          0.0% |     0.0 |    1.0 |         1.000 |        0.0 |     1.0 |        0.0 |         49.0 |
 |  0.05 |     0.000 |        5.9 |   0.421 |          0.0% |     0.0 |    1.0 |         1.000 |        0.0 |     1.0 |        0.0 |         49.0 |
 ...
+
+Included Utilities
+
+obsnet.py – Observation Network Tool
+
+A lightweight reference utility used for figure generation and invariant-density experimentation.
+
+Features:
+
+• Base-cycle relational network construction
+• Bounded closure checks
+• Non-domination proxy detection
+• Cycle sampling diagnostics
+• Monte-Carlo invariant density estimation
+
+Example usage:
+
+python obsnet.py --n 50 --p 0.02
+python obsnet.py --force-violation
+
+
+This utility serves as an experimental companion consistent with the formal framework presented in the associated papers.
+
 Scope & Limits
 
 All analysis is internal to R (agent's own relations) — no external reality modeling.
